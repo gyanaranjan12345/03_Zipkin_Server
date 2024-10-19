@@ -1,0 +1,7 @@
+1. Downnload Zipkin Jar file 
+   URL: https://zipkin.io/pages/quickstart.html
+2. Run zipkin jar file
+   $ java -jar <jar-name>
+3. Zipkin Server Runs on  Port Number 9411
+4. Acess zipkin server dashboard
+   http://localhost:9411/
